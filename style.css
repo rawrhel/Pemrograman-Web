@@ -1,0 +1,14 @@
+/* Import dua Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Merriweather:wght@700&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif; /* font untuk teks */
+  background-color: #F8FAFC;
+  color: #1E293B;
+  margin: 0;
+  padding: 20px;
+}
+
+p {
+  font-family: 'Merriweather', serif; /* font untuk judul */
+}
