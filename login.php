@@ -2,7 +2,7 @@
 session_start(); 
 
 $username_valid = "unnes"; 
-$password_valid = "1234"; 
+$password_valid = "12345"; 
 
 if(!isset($_POST["username"]) || !isset($_POST["password"])) {
     header("Location: index.html");
